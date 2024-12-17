@@ -1,0 +1,314 @@
+*{
+    margin: 0;
+}
+
+.header{
+    background-color: white;
+    color: black;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 60px;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-radius: 12px solid black;
+
+   
+}
+.header ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.header h1{
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header img{
+    height: 150px;
+    text-align: center;
+    padding-left: 20px;
+   
+}
+
+.header ul .blog{
+    color: blueviolet;
+}
+
+ .header ul .cont{
+    height: 30px;
+    width: 120px;
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 4px;
+ }
+
+ .main{
+    background-color:blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+    height: 400px;
+    padding: 100px  80px;
+    color: black;
+    margin: 5px;
+   border: none;
+    justify-content: space-between;
+    align-items: center;
+   
+   
+ }
+ .main h1{
+    width: 340px;
+
+ }
+ .main p{
+    width: 250px;
+    
+   
+ }
+ .main img{
+    width: 500px;
+    height: 450px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -380px;
+    margin-left: 600px;
+    border-radius: 12px;
+   
+ } 
+ .main .read{
+    width: 120px;
+    height: 30px;
+ }
+
+ 
+
+ .mohamed{
+   margin: 50px 35px;
+ }
+
+ .mohamed img{
+   width: 600px;
+   height: 300px;
+ 
+}
+.moha10{
+  
+   margin-left: 650px;
+   margin-top: -280px;
+
+}
+.moha10 h1{
+width: 600px;
+}
+
+.moha10 p{
+   width: 570px; 
+}
+.moha10 button{
+   margin-bottom: 100px;
+   width: 150px;
+   height: 50px;
+  color: blueviolet;
+  background-color: rgb(255, 255, 255);
+  border-radius: 6PX; 
+}
+.btn{
+   display: flex;
+   justify-content: center;
+   gap: 300px;
+   text-align: center;
+   margin-right: 350px;
+   margin: 30px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+.btn h1{
+   margin-right: 260px;
+}
+.btn13{
+   background-color: blueviolet;
+   width: 120px;
+   margin-inline: -100px;
+   height: 40px;
+   margin-right: -370px;
+   border: none;
+   border-radius: 5px;
+}
+.me{
+   display: flex;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 10px;
+   gap: 15px;
+   margin: 30px;
+}
+.me h1{
+   width: 400px;
+}
+
+.me p{
+   width: 290px; 
+}
+
+.me button{
+   color: blueviolet;
+   border: none;
+   background-color: rgba(0, 0, 255, 0);
+   margin: 20px;
+  
+}
+.giridhi{
+   height: 229px;
+   padding: 60px;
+   text-align: center;
+   background-color: blueviolet;
+   color: white;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.giridhi h1{
+   width: 500px;
+   text-align: center;
+   padding-left: 320px;
+}
+.giridhi p{
+   width: 500px;
+   padding-left: 320px;
+}
+
+.your{
+   background-color: rgb(255, 255, 255);
+   width: 150px;
+   margin-inline: 0px;
+   height: 40px;
+   margin-right: -130px;
+   border: none;
+   border-radius: 5px;
+}
+
+.get{
+   background-color: rgba(0, 0, 0, 0);
+   width: 150px;
+   margin-inline: -120px;
+   height: 40px;
+   margin-right: -350px;
+   border-radius: 5px solid white; 
+}
+
+.mohaz{
+ height: 180px;
+ display: flex;
+justify-content: center;
+
+}
+.mohaz img{
+    padding-top: 50px;
+width: 150px;
+height: 100px;
+}
+.mohaz4{
+   display: flex;
+   justify-content: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.mohaz4 ul{
+   display: flex;
+   justify-content: center;
+   list-style: none; 
+   gap: 20px;
+}
+
+.mohaz5{
+   display: flex;
+   justify-content: center;
+   gap: 20px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.isku1{
+   background-color: blue;
+   font-size: 10px;
+   text-align: center;
+   border-radius: 50%;
+   height: 40px;
+   width: 40px;
+}
+.isku2{
+   background-color: blue;
+   font-size: 10px;
+   text-align: center;
+   border-radius: 50%;
+   height: 40px;
+   width: 40px;
+}
+
+.isku3{
+   background-color: blue;
+   font-size: 10px;
+   text-align: center;
+   border-radius: 50%;
+   height: 40px;
+   width: 40px;
+}
+.isku4{
+   background-color: blue;
+   font-size: 10px;
+   text-align: center;
+   border-radius: 50%;
+   height: 40px;
+   width: 40px;
+}
+.isku5{
+   background-color: blue;
+   font-size: 10px;
+   text-align: center;
+   border-radius: 50%;
+   height: 40px;
+   width: 40px;
+}
+
+.ms5{
+   display: flex;
+   justify-content: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: small;
+   margin: 10px;
+  
+}
+
+.jozef{
+   margin: 20px 60px;
+   border-top: 1px solid blueviolet;
+}
+
+
+@media screen and(max-width:600px){
+   .header ul{
+      display: none;
+  }
+  
+  .header{
+   padding: 20px;
+}
+
+
+  
+  .header h1{
+      font-size: 25px;
+  }
+  .mohaz{
+   flex-direction: column;
+  }
+  .me1 img{
+   flex-direction: column;
+  }
+  
+}
